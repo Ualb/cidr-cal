@@ -1,0 +1,10 @@
+ 
+.input-block select, input[type=text]  { 
+    border: solid 2.5px black;
+    border-radius: 0;
+}  
+ 
+
+table {
+    font-family: monospace;
+}
